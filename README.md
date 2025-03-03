@@ -1,4 +1,3 @@
-# laughing-tribble
 <!DOCTYPE html>
 <html lang="uk">
 <head>
